@@ -8,5 +8,5 @@ I have strong belief on open source contribution and I promote the open source c
 
 ## Authors and acknowledgment
 Author Name: Sachin Vinayak Dabhade
-## Licence
+## License
 [GNU](https://choosealicense.com/licenses/gpl-3.0/) - Open for All.
